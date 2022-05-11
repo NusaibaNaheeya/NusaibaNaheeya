@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 5/ Bakery
+* source:	https://sketchfab.com/3d-models/day-5-bakery-1eae05a0a4fa48aab7c41577bae7dcee
+* author:	wribeast (https://sketchfab.com/wribeast)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 5/ Bakery" (https://sketchfab.com/3d-models/day-5-bakery-1eae05a0a4fa48aab7c41577bae7dcee) by wribeast (https://sketchfab.com/wribeast) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
